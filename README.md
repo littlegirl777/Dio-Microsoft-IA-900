@@ -1,68 +1,19 @@
-# LAB IA-900
-#### PROJETO DA DIO PARA CERTIFICAÇÃO MICROSOFT IA-900
+# Desafios do Bootcamp Certificação AI-900 da Microsoft
 
-## Dados sobre o projeto:
+Este repositório contém os desafios propostos no Bootcamp de Certificação AI-900 da Microsoft do curso Microsoft Azure AI Fundamentals da Dio. [Link do curso](https://web.dio.me/track/microsoft-azure-ai-fundamentals)
 
-- _Crie um novo repositório no github com um nome a sua preferência;_
-- _Crie um modelo de previsão com seus devidos pontos de extremidade configurados;_
-- _Escreva o passo a passo desse processo em um readme.md de como você chegou nessa etapa;_
-- _Salve nesse repositório o readme.md e o arquivo .json de pontos de extremidade;_
-- _Compartilhe conosco o link desse repositório através do botão 'entregar projeto'._
+![alt text](image.png)
 
-##
-#### Tutorial para execução desse lab: 
-- [Lab01 Machine Learning ](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
-##
+## Sobre o Bootcamp
 
-> ## Testar o serviço implantado
-  
-![image](https://github.com/littlegirl777/Dio-Microsoft-IA-900/assets/156604824/19f04092-57d9-4d61-b232-feebbf100df7)
+O Bootcamp de Certificação AI-900 da Microsoft oferece uma oportunidade para os participantes aprenderem sobre os conceitos fundamentais de Inteligência Artificial (IA) e como aplicá-los em diversas áreas. Este curso abrange tópicos como conceitos básicos de IA, aprendizado de máquina, visão computacional, IA Generativa, ética e privacidade de dados, além de fornecer uma visão geral das ferramentas e serviços disponíveis na plataforma Azure da Microsoft.
 
-![image](https://github.com/littlegirl777/Dio-Microsoft-IA-900/assets/156604824/4b12145f-0114-49cd-95ef-01459169478f)
+## Objetivo deste Repositório
+
+Este repositório foi criado para armazenar os desafios práticos propostos ao longo do Bootcamp de Certificação AI-900. Cada desafio aborda um aspecto específico da IA e é projetado para testar e aprimorar as habilidades práticas dos participantes.
 
 
+## Como Contribuir
 
+Se você participa do Bootcamp AI-900 e deseja contribuir com soluções para os desafios ou propor novos desafios, sinta-se à vontade para fazer um fork deste repositório, adicionar suas contribuições e enviar um pull request. Suas contribuições são muito bem-vindas!
 
-   ## Entrada teste e saida:
-   > [!IMPORTANT]
-   Testando ponto de extremidade parametros
-
-  ```json
-   {
-     "Inputs": { 
-       "data": [
-         {
-           "day": 1,
-           "mnth": 1,   
-           "year": 2022,
-           "season": 2,
-           "holiday": 0,
-           "weekday": 1,
-           "workingday": 1,
-           "weathersit": 2, 
-           "temp": 0.3, 
-           "atemp": 0.3,
-           "hum": 0.3,
-           "windspeed": 0.3 
-         }
-       ]    
-     },   
-     "GlobalParameters": 1.0
-   }
-  ```
-  ## 
-  Resultado do teste
-  
-  ```json
-   {
-     "Results": [
-       339.21702316370437
-     ]
-   }
-  ```
-
-## Referência:
-
- - [Explore Azure AI Services](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/02-content-safety.html)
- - [Explore Automated Machine Learning in Azure Machine Learning](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
- 
