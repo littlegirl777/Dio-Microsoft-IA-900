@@ -1,5 +1,4 @@
-# LAB IA-900
-#### PROJETO DA DIO PARA CERTIFICAÇÃO MICROSOFT IA-900
+## # Desafio Visão Computacional 
 
 ## Dados sobre o projeto:
 
