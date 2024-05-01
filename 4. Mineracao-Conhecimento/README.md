@@ -27,7 +27,7 @@
 
 #### Laboratório:
    
-![image](https://hackmd.io/_uploads/rklN1i1zR.png)
+![myImage](https://learn.microsoft.com/pt-br/azure/search/media/search-create-service-portal/animatedgif-azuresearch-small.gif)
 
 
 
