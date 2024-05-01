@@ -21,9 +21,11 @@
 (https://portal.vision.cognitive.azure), assim como utilizei outras imagens:
 
 Primeiro Teste:
-   ![image](https://hackmd.io/_uploads/rkbXGdJMR.png)
+  ![image](https://github.com/littlegirl777/Dio-Microsoft-IA-900/assets/156604824/2e0ccd1c-d603-4cb0-9f95-09403cbb2934)
+
 Segundo Teste:
-![image](https://hackmd.io/_uploads/BkE7Vd1fA.png)
+![image](https://github.com/littlegirl777/Dio-Microsoft-IA-900/assets/156604824/45d299f9-71ae-4ba4-a1e7-59f888de18f0)
+
 
 
 ## Análise de Documentos:
@@ -31,18 +33,22 @@ Segundo Teste:
 Fiz o teste com uma foto fake de um RG para reconhecimento de imagem e reconhecimento de caracteres:
 
 Apenas reconhecimento de Face
-![image](https://hackmd.io/_uploads/SJmrMdJzA.png)
+![image](https://github.com/littlegirl777/Dio-Microsoft-IA-900/assets/156604824/51c0d203-e344-4812-a91e-57fb1ee12573)
+
 Apenas reconhecimento de caracteres/texto: 
-![image](https://hackmd.io/_uploads/rJEQruyM0.png)
+![image](https://github.com/littlegirl777/Dio-Microsoft-IA-900/assets/156604824/25c71c59-2c3d-4178-83a6-f1d46ccabca9)
+
 
 Outro texte com uma lista de compras feita a mão:
 
 Foto utilizada: 
-![WhatsApp Image 2024-05-01 at 04.59.39 (1)](https://hackmd.io/_uploads/H1mlvOyMR.jpg)
+![image](https://github.com/littlegirl777/Dio-Microsoft-IA-900/assets/156604824/0b11807f-ebcd-49e6-bc18-1b589e9c275c)
+
 
 Reconhecimento via Vision Studio:
 
-![image](https://hackmd.io/_uploads/HyVmv_kzC.png)
+![image](https://github.com/littlegirl777/Dio-Microsoft-IA-900/assets/156604824/db4b5ab9-c729-4d5e-a13f-596d7d9a83da)
+
 
 
 
