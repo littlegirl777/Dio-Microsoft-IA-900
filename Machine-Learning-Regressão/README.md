@@ -16,8 +16,11 @@
 
 > ## Testar o serviço implantado
   
-![image](https://hackmd.io/_uploads/BJz8NSR-A.png)
-![image](https://hackmd.io/_uploads/HydL4S0WR.png)
+![image](https://github.com/littlegirl777/Dio-Microsoft-IA-900/assets/156604824/c2677a0c-d94c-4e80-b7a8-a9c8e43926ac)
+
+
+![image](https://github.com/littlegirl777/Dio-Microsoft-IA-900/assets/156604824/9aa4d475-088c-4475-910c-55fab61686a6)
+
 
 
    ## Entrada teste e saida:
