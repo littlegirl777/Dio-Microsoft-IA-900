@@ -13,6 +13,8 @@
 #### Tutorial para execução desse lab: 
 - [Lab de Análise texto com Language Studio ](https://learn.microsoft.com/pt-br/training/modules/analyze-text-with-text-analytics-service/)
 
+A Linguagem de IA do Azure fornece processamento avançado de linguagem natural em texto bruto e inclui quatro funções principais: análise de sentimentos, extração de frases-chave, detecção de idioma e reconhecimento de entidade nomeada.
+
 O processamento de linguagem natural pode ser usado para criar:
 
 - Um analisador de feed de mídia social que detecta o sentimento relativo a uma campanha de marketing de um produto.
