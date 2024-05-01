@@ -1,4 +1,5 @@
-# LAB IA-900
+# Desafio Machine Learning | LAB IA-900
+
 #### PROJETO DA DIO PARA CERTIFICAÇÃO MICROSOFT IA-900
 
 ## Dados sobre o projeto:
